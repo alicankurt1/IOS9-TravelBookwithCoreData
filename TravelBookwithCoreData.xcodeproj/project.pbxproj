@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B73891D26C5272B00B6064A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B73891C26C5272B00B6064A /* FirstViewController.swift */; };
 		0B8158C326C4363D00583C10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8158C226C4363D00583C10 /* AppDelegate.swift */; };
 		0B8158C526C4363D00583C10 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8158C426C4363D00583C10 /* SceneDelegate.swift */; };
 		0B8158C726C4363D00583C10 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8158C626C4363D00583C10 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B73891C26C5272B00B6064A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		0B8158BF26C4363D00583C10 /* TravelBookwithCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBookwithCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B8158C226C4363D00583C10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B8158C426C4363D00583C10 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				0B8158C226C4363D00583C10 /* AppDelegate.swift */,
 				0B8158C426C4363D00583C10 /* SceneDelegate.swift */,
+				0B73891C26C5272B00B6064A /* FirstViewController.swift */,
 				0B8158C626C4363D00583C10 /* ViewController.swift */,
 				0B8158C826C4363D00583C10 /* Main.storyboard */,
 				0B8158CE26C4363D00583C10 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B73891D26C5272B00B6064A /* FirstViewController.swift in Sources */,
 				0B8158C726C4363D00583C10 /* ViewController.swift in Sources */,
 				0B8158C326C4363D00583C10 /* AppDelegate.swift in Sources */,
 				0B8158C526C4363D00583C10 /* SceneDelegate.swift in Sources */,
